@@ -1,0 +1,21 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.p{
+background-color: rgb(243, 142, 142);
+}
+.p.biggy{
+    font-size: xx-large;
+}
+
+#two{
+color: blue;
+font-size: x-large;
+}
+
+#four{
+font-weight: bold;
+background-color: greenyellow;
+font-size: larger;
+}
